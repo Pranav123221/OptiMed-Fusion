@@ -1,4 +1,7 @@
 # OptiMed-Fusion
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](https://optimed-fusion-cdebz6a8ijihfkqxjpeptk.streamlit.app/)
+
+🚀 **Live Application:** https://optimed-fusion-cdebz6a8ijihfkqxjpeptk.streamlit.app/
 ### Multimodal Clinical Risk Prediction Using Ensemble Machine Learning, CNNs & Late Fusion
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)](https://www.python.org/)

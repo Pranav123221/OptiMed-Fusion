@@ -1,0 +1,38 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated datasets
+data/raw/*
+data/processed/*
+
+# Model artifacts: keep only deployment-required files
+models/*
+!models/cnn_model.keras
+!models/optimized_xgboost.json
+!models/random_forest.pkl
+!models/tabular_scaler.pkl
+!models/fusion_config.json
+
+# Reports
+reports/figures/*
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local-only validation script
+test_local_prediction.py

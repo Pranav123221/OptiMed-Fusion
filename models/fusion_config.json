@@ -1,0 +1,7 @@
+{
+    "tabular_ml_weight": 0.65,
+    "cnn_weight": 0.35,
+    "low_risk_threshold": 0.4,
+    "high_risk_threshold": 0.6,
+    "fusion_method": "weighted_probability_late_fusion"
+}
